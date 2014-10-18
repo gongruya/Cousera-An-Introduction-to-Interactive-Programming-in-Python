@@ -1,1 +1,1 @@
-The Mini-projects assinments of the [An Introduction to Interactive Programming in Python on Coursera](https://class.coursera.org/interactivepython-005), updated weekly, tested on [CodeSkulptor](http://www.codeskulptor.org).
+The Mini-projects assinments of the online course [An Introduction to Interactive Programming in Python on Coursera](https://class.coursera.org/interactivepython-005), updated weekly, tested on [CodeSkulptor](http://www.codeskulptor.org).
